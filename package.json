@@ -1,5 +1,5 @@
 {
-  "name": "Static Servant",
+  "name": "Static-Servant",
   "version": "1.0.0",
   "description": "Serve static content, yo",
   "main": "server.js",
